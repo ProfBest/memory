@@ -1,0 +1,20 @@
+{
+  "name": "memory",
+  "version": "1.0.0",
+  "description": "store photos and videos of your memories",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "mysql": "^2.11.1",
+    "urlencode": "^1.1.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
